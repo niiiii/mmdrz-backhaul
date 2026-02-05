@@ -184,7 +184,7 @@ display_logo() {
     cat << "EOF"
                                             
    Lightning-fast reverse tunneling solution
-   developed by MMDRZ @mmcloudvpn
+   developed by MMDRZ
 EOF
     echo -e "${NC}${GREEN}"
     echo -e "Script Version: ${YELLOW}${SCRIPT_VERSION}${GREEN}"
